@@ -63,7 +63,10 @@ Glow Alarm uses the following technology stack:
 
 ## 🧑🏻‍💻 Team Sound Light 
 
-| 윤병욱 [@speculatingwook](https://github.com/speculatingwook)| 이지민 [@clicelee](https://github.com/clicelee)       | 윤수혁 [@ShuYuns](https://github.com/ShuYuns)        | 강성우 [@KSW-KSM](https://github.com/KSW-KSM)         |
-|:---------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|
-| Backend/PM                | Backend/Designer            | Frontend                    | AI                          |
+|     |     |     |     |
+|:---:|:---:|:---:|:---:|
+|<img src="https://github.com/sound-light/.github/assets/131771046/5c967e14-ea13-4bbe-8b44-4bac8dc975ac" height="100px">|<img src="https://github.com/sound-light/.github/assets/131771046/570263ce-c5a6-46a5-b8fd-d03bb8ec2302" height="100px">|<img src="https://github.com/sound-light/.github/assets/131771046/a31063e7-68d5-416d-bc48-f61f9bc11499" height="100px">|<img src="https://github.com/sound-light/.github/assets/131771046/9159c4ea-166b-4df8-9294-939bf7ce3f87" height="100px">|
+|윤병욱 [@speculatingwook](https://github.com/speculatingwook)|이지민 [@clicelee](https://github.com/clicelee)|윤수혁 [@ShuYuns](https://github.com/ShuYuns)|강성우 [@KSW-KSM](https://github.com/KSW-KSM)|
+|Backend/PM|Backend/Designer|Frontend|AI|
+
 
