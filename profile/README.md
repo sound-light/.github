@@ -2,7 +2,7 @@
 A visual alarm application using a smart light bulb.
 
 <p align="center">
-  <img src="https://github.com/sound-light/Glow-Alarm/assets/131771046/4e50fc5b-7b55-4e1a-9c71-31fbaedeb1bd">
+  <img src="https://github.com/sound-light/.github/assets/131771046/e359f946-0131-4d4a-83a0-0e34a88aa7e2">
 </p>
 
 
