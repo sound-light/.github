@@ -5,8 +5,8 @@ A visual alarm application using a smart light bulb.
   <img src="https://github.com/sound-light/.github/assets/131771046/7973a3fa-49ac-48e2-a145-6c9cfef63a73">
 </p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XQT0ta_FMbk?si=lSsSYRraaz3Ji_gc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://youtu.be/XQT0ta_FMbk?si=lSsSYRraaz3Ji_gc" frameborder="0" allowfullscreen></iframe>
 
 
 
