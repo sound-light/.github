@@ -5,6 +5,9 @@ A visual alarm application using a smart light bulb.
   <img src="https://github.com/sound-light/.github/assets/131771046/7973a3fa-49ac-48e2-a145-6c9cfef63a73">
 </p>
 
+<iframe width="560" height="315" src="https://youtu.be/XQT0ta_FMbk?si=lSsSYRraaz3Ji_gc" frameborder="0" allowfullscreen></iframe>
+
+
 
 ## 💡 Project Overview
 In the event of a disaster, evacuation alerts are issued but rely solely on sound, becoming ineffectual for those with deaf and hard of hearing, highlighting a critical social inequality. Neuroplasticity suggests that individuals with hearing loss often have enhanced visual capabilities, making visual alarms a preferred method for alerts, as indicated by research in the *Fire Technology journal's* "Alarm Technologies to Wake Sleeping People Who are Deaf or Hard of Hearing (2022)." This underscores the necessity for a visual warning system.
