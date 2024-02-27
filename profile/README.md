@@ -5,7 +5,7 @@ A visual alarm application using a smart light bulb.
   <img src="https://github.com/sound-light/.github/assets/131771046/7973a3fa-49ac-48e2-a145-6c9cfef63a73">
 </p>
 
-[![Alt text]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/XQT0ta_FMbk?si=iK0I9bXUmV9ckVYG))
+[![YOUTUBE]([https://www.youtube.com/watch?v=dQw4w9WgXcQ])](https://youtu.be/XQT0ta_FMbk?si=iK0I9bXUmV9ckVYG)
 
 
 
