@@ -2,7 +2,7 @@
 A visual alarm application using a smart light bulb.
 
 <p align="center">
-  <img src="https://github.com/sound-light/.github/assets/131771046/7973a3fa-49ac-48e2-a145-6c9cfef63a73">
+  <img src="https://github.com/user-attachments/assets/2c54262f-558d-4a12-91ee-e875df0d6a8e">
 </p>
 
 ## Youtube video(click to watch)
