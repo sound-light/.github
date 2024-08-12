@@ -1,7 +1,7 @@
 # Visual alarm for the deaf and HoH, Glow Alarm 💡
 A visual alarm application using a smart light bulb.
 ## Youtube video(click to watch)
-[![YOUTUBE]([https://github.com/sound-light/.github/assets/105579811/9b3ed493-156c-4ca8-ac04-913b0cc35fa6](https://github.com/user-attachments/assets/2c54262f-558d-4a12-91ee-e875df0d6a8e))](https://www.youtube.com/watch?v=2ticysXQrvU)
+[![YOUTUBE]([https://github.com/sound-light/.github/assets/105579811/9b3ed493-156c-4ca8-ac04-913b0cc35fa6])](https://www.youtube.com/watch?v=2ticysXQrvU)
 
 ## 💡 Project Overview
 In the event of a disaster, evacuation alerts are issued but rely solely on sound, becoming ineffectual for those with deaf and hard of hearing, highlighting a critical social inequality. Neuroplasticity suggests that individuals with hearing loss often have enhanced visual capabilities, making visual alarms a preferred method for alerts, as indicated by research in the *Fire Technology journal's* "Alarm Technologies to Wake Sleeping People Who are Deaf or Hard of Hearing (2022)." This underscores the necessity for a visual warning system.
